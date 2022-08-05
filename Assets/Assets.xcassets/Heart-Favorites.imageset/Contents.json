@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Heart-768x768px.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
