@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pristine_looseleaf_paper.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
