@@ -24,6 +24,12 @@
         "font": "Chalkduster"
     },
     {
+        "name": "Jazz",
+        "subtitle": "Jazz it up",
+        "image": "Instrumental-1",
+        "font": "Chalkduster"
+    },
+    {
         "name": "SelfCompassion",
         "subtitle": "Bath in Self Compassion and Love",
         "image": "CarouselCard-SelfLove-6",
