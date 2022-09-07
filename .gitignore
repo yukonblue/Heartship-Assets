@@ -1,2 +1,5 @@
 # Misc.
 *.DS_Store
+
+# Xcode
+EmptyProject/EmptyProject.xcodeproj/project.xcworkspace/xcuserdata
