@@ -2,5 +2,7 @@
 *.DS_Store
 
 # Xcode
-EmptyProject/EmptyProject.xcodeproj/project.xcworkspace/xcuserdata/*
-EmptyProject/EmptyProject.xcodeproj/project.xcworkspace/xcuserdata/z.xcuserdatad/UserInterfaceState.xcuserstate
+EmptyProject/EmptyProject.xcodeproj/xcuserdata/x.xcuserdatad
+EmptyProject/EmptyProject.xcodeproj/project.xcworkspace/xcuserdata
+EmptyProject/EmptyProject.xcodeproj/project.xcworkspace/xcuserdata/x.xcuserdatad
+EmptyProject/EmptyProject.xcodeproj/project.xcworkspace/xcuserdata/x.xcuserdatad/UserInterfaceState.xcuserstate
