@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17B4457E2910CE9E002C915D /* Assets_INACTIVE.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17B4457D2910CE9E002C915D /* Assets_INACTIVE.xcassets */; };
 		192CE4C1289D9D6000CA19E0 /* EmptyProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192CE4C0289D9D6000CA19E0 /* EmptyProjectApp.swift */; };
 		192CE4C3289D9D6000CA19E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192CE4C2289D9D6000CA19E0 /* ContentView.swift */; };
 		192CE4C8289D9D6100CA19E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 192CE4C7289D9D6100CA19E0 /* Preview Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		17B4457D2910CE9E002C915D /* Assets_INACTIVE.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets_INACTIVE.xcassets; sourceTree = "<group>"; };
 		192CE4BD289D9D6000CA19E0 /* EmptyProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmptyProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		192CE4C0289D9D6000CA19E0 /* EmptyProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyProjectApp.swift; sourceTree = "<group>"; };
 		192CE4C2289D9D6000CA19E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				192CE4C0289D9D6000CA19E0 /* EmptyProjectApp.swift */,
 				192CE4C2289D9D6000CA19E0 /* ContentView.swift */,
 				192CE4CE289D9D7600CA19E0 /* Assets.xcassets */,
+				17B4457D2910CE9E002C915D /* Assets_INACTIVE.xcassets */,
 				192CE4C6289D9D6100CA19E0 /* Preview Content */,
 			);
 			path = EmptyProject;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17B4457E2910CE9E002C915D /* Assets_INACTIVE.xcassets in Resources */,
 				192CE4CF289D9D7600CA19E0 /* Assets.xcassets in Resources */,
 				192CE4C8289D9D6100CA19E0 /* Preview Assets.xcassets in Resources */,
 			);
